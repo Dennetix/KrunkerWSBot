@@ -1,0 +1,17 @@
+{
+    "include": [
+        "src/**/*"
+    ],
+    "compilerOptions": {
+        "baseUrl": "./src",
+        "outDir": "dist/",
+        "module": "ESNext",
+        "target": "ES2015",
+        "moduleResolution": "node",
+        "strict": true,
+        "useDefineForClassFields": true,
+        "resolveJsonModule": true,
+        "forceConsistentCasingInFileNames": true,
+        "allowSyntheticDefaultImports": true
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "preferredLobbyRegion": "de-fra",
+
+    "socketTickFrequency": 14,
+
+    "moveDistanceThreshold": 3,
+    "moveUpdateFrequency": 12,
+
+    "clientsMeetDistance": 10
+}
